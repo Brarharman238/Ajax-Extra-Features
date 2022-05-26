@@ -751,7 +751,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('💠 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 💠', url='https://t.me/CYNITEBOTS')
             ],[      
             InlineKeyboardButton('♻️ Hᴇʟᴘ ♻️', callback_data='help'),
-            InlineKeyboardButton('CONTACT ME', url='https://t.me/Teamx69'),
+            InlineKeyboardButton('Hᴏᴡ ᴛᴏ Usᴇ Mᴇ? ', url='https://t.me/howtousezsearcherbot/2'),
             InlineKeyboardButton('♻️ ABOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('- Sᴇᴀʀᴄʜ Iɴʟɪɴᴇ-', switch_inline_query_current_chat=''),
